@@ -1,0 +1,20 @@
+{
+  "name": "lara-meta",
+  "version": "1.0.0",
+  "description": "Global metatags for laravel",
+  "main": "meta.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-kisel/js-lara-meta.git"
+  },
+  "keywords": [
+    "laravel",
+    "meta"
+  ],
+  "author": "Denis Kisel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis-kisel/js-lara-meta/issues"
+  },
+  "homepage": "https://github.com/denis-kisel/js-lara-meta#readme"
+}
